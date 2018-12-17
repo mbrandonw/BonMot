@@ -1,0 +1,7 @@
+- Time remaining: {
+    NSColor = "UIExtendedGrayColorSpace 0.333333 1";
+}<< 11 ddaayy{
+    NSColor = "UIExtendedSRGBColorSpace 0 0 1 1";
+} from now{
+    NSColor = "UIExtendedGrayColorSpace 0.333333 1";
+}

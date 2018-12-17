@@ -1,0 +1,21 @@
+PODS:
+  - SnapshotTesting (1.0.0)
+
+DEPENDENCIES:
+  - SnapshotTesting (from `https://github.com/pointfreeco/swift-snapshot-testing`)
+
+EXTERNAL SOURCES:
+  SnapshotTesting:
+    :git: https://github.com/pointfreeco/swift-snapshot-testing
+
+CHECKOUT OPTIONS:
+  SnapshotTesting:
+    :commit: be2543397ce776818e14d081e91b492d398c4d1a
+    :git: https://github.com/pointfreeco/swift-snapshot-testing
+
+SPEC CHECKSUMS:
+  SnapshotTesting: 7c799dd6fab517da677e9cb83557b12a0253f2da
+
+PODFILE CHECKSUM: dc9be09427cb9be94e1885502363c16c7ae93351
+
+COCOAPODS: 1.5.3

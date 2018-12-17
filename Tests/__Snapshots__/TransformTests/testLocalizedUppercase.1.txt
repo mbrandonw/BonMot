@@ -1,0 +1,11 @@
+- Translation: {
+    NSColor = "UIExtendedGrayColorSpace 0.333333 1";
+}<STRASSE>{
+    NSColor = "UIExtendedSRGBColorSpace 0 0 1 1";
+} is German for {
+    NSColor = "UIExtendedGrayColorSpace 0.333333 1";
+}STREET{
+    NSColor = "UIExtendedSRGBColorSpace 0 0 1 1";
+}.{
+    NSColor = "UIExtendedGrayColorSpace 0.333333 1";
+}

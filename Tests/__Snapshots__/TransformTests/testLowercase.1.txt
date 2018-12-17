@@ -1,0 +1,7 @@
+- Time remaining: {
+    NSColor = "UIExtendedGrayColorSpace 0.333333 1";
+}< 1 day{
+    NSColor = "UIExtendedSRGBColorSpace 0 0 1 1";
+} FROM NOW{
+    NSColor = "UIExtendedGrayColorSpace 0.333333 1";
+}
